@@ -22,3 +22,5 @@ This is a simple C++ program that simulates a basic stock market. Users can view
    ```bash
    git clone https://github.com/yourusername/stock-market-simulation.git
    cd stock-market-simulation
+
+![image](https://github.com/user-attachments/assets/723df1d7-ddef-4981-b5e7-30fad75be975)
